@@ -1,3 +1,6 @@
 hi this is robot from open ai
 hi team what is the plan for today
 hello friends
+hi shakthi
+
+sum=a+b;
